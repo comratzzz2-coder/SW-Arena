@@ -51,6 +51,8 @@ local monsters = {
     {id = 17011, name = "🌊 Зибала", element = "Вода"},
     {id = 16706, name = "🌊 Манон", element = "Вода"},
     {id = 16711, name = "🌊 Манон", element = "Вода"},
+    {id = 10216, name = "🌊 Галеон", element = "Вода"},
+    {id = 10221, name = "🌊 Галеон", element = "Вода"},
     
     -- 🔥 ОГОНЬ
     {id = 22412, name = "🔥 Джин Кадзима", element = "Огонь"},
@@ -315,6 +317,7 @@ function freezeSelectedMonsters()
 end
 
 showMonsterMenu()
+
 
 
 
